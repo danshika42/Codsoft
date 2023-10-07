@@ -269,6 +269,8 @@ footer{
   color: #f0f0f0;
 }
 .contact-footer{
+    width: 60%;
+    margin: auto;
     display: flex;
     justify-content: space-evenly;
 }
